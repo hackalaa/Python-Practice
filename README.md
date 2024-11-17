@@ -2,9 +2,6 @@
 
 Learning Python, practicing it. Simple as that. Will add here some of exercises I've done or working with.
 
-Started to learn at 22/3/2024.
-Hours spent: 13h (27/3/2024)
-(Yes, I like to track things.)
 
 ## Muistikirja
 
